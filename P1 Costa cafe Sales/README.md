@@ -6,6 +6,7 @@ It includes sales trends, product performance, and insights for business decisio
 
 ## Tools Used
 - Microsoft Excel
+- Power Query (for data cleaning and transformation)
 - Pivot Tables
 - Charts and Graphs
 
@@ -13,6 +14,7 @@ It includes sales trends, product performance, and insights for business decisio
 The dataset includes daily sales, product categories, and store locations.
 
 ## Features
+- Data Cleaning & Transformation using Power Query
 - Interactive Pivot Tables
 - Sales Trends Charts
 - Product Performance Analysis
@@ -20,4 +22,3 @@ The dataset includes daily sales, product categories, and store locations.
 ## How to Use
 - Open the Excel file
 - Navigate between sheets for Sales Overview, Charts, and Insights
-
